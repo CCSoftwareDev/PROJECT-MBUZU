@@ -1,5 +1,5 @@
-# PROJECT-MBUZU
+# ScotFoot
 
 
 
-PROJECT MBUZU APP
+ScotFoot APP
